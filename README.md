@@ -137,11 +137,3 @@ for always helping me and more! <3
 
 ### [Discord - Valorant App Developer ](https://discord.gg/a9yzrw3KAm) by [MikeValorantLeaks](https://github.com/RumbleMike)
 developer community for valorant api
-
-### Support Me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staciax)
-
-<a href="https://tipme.in.th/renlyx">
-<img link="https://ko-fi.com/staciax" src="https://static.tipme.in.th/img/logo.f8267020b29b.svg" width="170" />
-</a>
